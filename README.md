@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+![Screenshot 2024-04-21 205038](https://github.com/CeriiZedF/react1hw/assets/60105990/0f42c6bc-fb52-4320-a7d3-e84de5e17b55)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
